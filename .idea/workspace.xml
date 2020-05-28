@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4b14a42-94f0-4c12-9f42-bb40c0d27121" name="Default Changelist" comment="" />
+    <list default="true" id="e4b14a42-94f0-4c12-9f42-bb40c0d27121" name="Default Changelist" comment="added byuFanPage to index" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1590681572926</updated>
     </task>
+    <task id="LOCAL-00001" summary="added byuFanPage to index">
+      <created>1590682853051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590682853051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +59,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added byuFanPage to index" />
+    <option name="LAST_COMMIT_MESSAGE" value="added byuFanPage to index" />
   </component>
 </project>
