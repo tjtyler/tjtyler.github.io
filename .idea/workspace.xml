@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4b14a42-94f0-4c12-9f42-bb40c0d27121" name="Default Changelist" comment="added byuFanPage to index" />
+    <list default="true" id="e4b14a42-94f0-4c12-9f42-bb40c0d27121" name="Default Changelist" comment="byu fan page">
+      <change beforePath="$PROJECT_DIR$/byuFanPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/byuFanPage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590682853051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="byu fan page">
+      <created>1590682933520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590682933520</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added byuFanPage to index" />
-    <option name="LAST_COMMIT_MESSAGE" value="added byuFanPage to index" />
+    <MESSAGE value="byu fan page" />
+    <option name="LAST_COMMIT_MESSAGE" value="byu fan page" />
   </component>
 </project>
